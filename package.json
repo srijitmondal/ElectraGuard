@@ -1,0 +1,18 @@
+{
+  "name": "electraguard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.11.5"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "description": ""
+}
