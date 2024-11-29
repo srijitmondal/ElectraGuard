@@ -28,6 +28,14 @@
 
 ---
 
+## 📸 Screenshots
+
+| Election Commission Controller | Voter Login Interface | Vote Casting Interface |
+|------------------|----------------|-------------|
+| ![Election Commission Controller](https://i.postimg.cc/8kL5FWq1/Screenshot-2024-11-29-130003.png) | ![Voter Login Interface](https://i.postimg.cc/Bvw8g0g4/Screenshot-2024-11-29-125802.png) | ![Vote Casting Interface](https://i.postimg.cc/j2YSgdJ0/Screenshot-2024-11-29-125836.png) |
+
+---
+
 ## **Project Structure**
 ```plaintext
 ElectraGuard/
